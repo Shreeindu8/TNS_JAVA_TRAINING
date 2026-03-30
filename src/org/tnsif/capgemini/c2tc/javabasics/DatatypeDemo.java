@@ -1,4 +1,4 @@
-package org.tnsif.cap.c2tc.javabasics;
+package org.tnsif.capgemini.c2tc.javabasics;
 //online food delivery example
 public class DatatypeDemo {
 
