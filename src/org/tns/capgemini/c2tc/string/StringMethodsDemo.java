@@ -1,11 +1,6 @@
 package org.tns.capgemini.c2tc.string;
 
 public class StringMethodsDemo {
-
-}
-package org.tns.capgemini.c2tc.string;
-
-public class StringMethodsDemo {
     public static void main(String[] args) {
         // Initialize a string for demonstration
         String str = "   Hello, World!   ";
